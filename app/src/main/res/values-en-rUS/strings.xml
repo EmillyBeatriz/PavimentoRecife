@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PavimentoRecife</string>
+    <string name="senha">Password</string>
+    <string name="login">Login</string>
+    <string name="usuario">Username</string>
+    <string name="Avançar">Next page</string>
+    <string name="textotela2">Project created with the aim of promoting paving in the city of Recife.</string>
+    <string name="texto3">Any suggestions on how to collaborate with the city of Recife? Send us an email!</string>
+    <string name="loginsucesso">Successfully logged in!</string>
+    <string name="campovazio">Please enter username and password</string>
+    <string name="voltar">Back</string>
+    <string name="bemvindo">Welcome:</string>
+</resources>

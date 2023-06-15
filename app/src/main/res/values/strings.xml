@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PavimentoRecife</string>
+    <string name="senha">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="usuario">Usuário</string>
+    <string name="Avançar">Próxima página</string>
+    <string name="textotela2">Projeto criado com intuito de promover a pavimentação na cidade do Recife.</string>
+    <string name="texto3">Alguma sugestão de como colaborar com a cidade do Recife? Envie um email para nós!</string>
+    <string name="loginsucesso">Logado com sucesso!</string>
+    <string name="campovazio">Por favor, digite o nome de usuário e a senha</string>
+    <string name="voltar">Voltar</string>
+    <string name="bemvindo">Bem-vindo</string>
+</resources>
